@@ -1,18 +1,0 @@
-
-Gsquid:S1481"+Remove this unused "string" local variable.(Ô•’‚8¨’â—-
-Vsquid:S1854":Remove this useless assignment to local variable "string".(Ô•’‚8¨’â—-
-Rsquid:S1854"7Remove this useless assignment to local variable "sdf".(¬ü¯-8¨’â—-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(›¹à%8ñ¤Ò—-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(›¹à%8ñ¤Ò—-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜½…ä8ñ¤Ò—-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ8çÙÔ—-
-Csquid:S1481"(Remove this unused "sdf" local variable.(¬ü¯-8¨’â—-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶¶İã8ñ¤Ò—-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚£Ô€8ñ¤Ò—-
-§%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8¨’â—-
