@@ -14,7 +14,9 @@ public class Main {
         int[] arr = new int[]{1,3,5,7,9,10};
 
         for (int i=0;i<=arr.length;i++){
+
             System.out.println(i);
+
        }
 
 
