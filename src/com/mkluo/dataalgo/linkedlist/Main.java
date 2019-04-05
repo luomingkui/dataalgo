@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.chaintable;
+package com.mkluo.dataalgo.linkedlist;
 
 /**
  * @author luomingkui

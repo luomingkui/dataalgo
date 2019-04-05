@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab911fe-07f7-4fd1-8a4d-ae7b1ca5a100" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/array/Array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/chaintable/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/stack/Main.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkluo/dataalgo/array/Main.java" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/array/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkluo/dataalgo/chaintable/Main.java" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/linkedlist/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +43,7 @@
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/chaintable/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/linkedlist/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
@@ -197,6 +194,13 @@
               <item name="dataalgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dataalgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataalgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dataalgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dataalgo" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,7 +397,7 @@
       <workItem from="1552983394198" duration="4896000" />
       <workItem from="1553135981816" duration="243000" />
       <workItem from="1554362777385" duration="4315000" />
-      <workItem from="1554459145770" duration="2076000" />
+      <workItem from="1554459145770" duration="2656000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法">
       <created>1554367958237</created>
@@ -409,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554459212055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="堆和栈">
+      <created>1554479514132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554479514132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15727000" />
+    <option name="totallyTimeSpent" value="16307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1724" y="-192" width="1830" height="1015" extended-state="0" />
@@ -456,7 +467,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="数据结构与算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构与算法" />
+    <MESSAGE value="堆和栈" />
+    <option name="LAST_COMMIT_MESSAGE" value="堆和栈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -584,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/chaintable/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/linkedlist/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
