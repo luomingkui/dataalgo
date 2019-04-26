@@ -4,7 +4,7 @@ package com.mkluo.dataalgo.array;
  * @Description: TODO
  * @Author: luomingkui
  * @Date: Created in 下午4:37 2019/4/5
- * @Version: V1.0 数组
+ * @Version: V1.0 数组（手写实现一个数组）
  */
 
 public class Main {
