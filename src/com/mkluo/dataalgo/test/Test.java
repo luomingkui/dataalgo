@@ -9,10 +9,7 @@ package com.mkluo.dataalgo.test;
 public class Test {
 
     public static void main(String[] args) {
-        cal(5);
-
-
-
+        cal(1000);
     }
 
     static int cal(int n) {

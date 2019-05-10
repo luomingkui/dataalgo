@@ -1,8 +1,8 @@
 
-[squid:S11973"8Move the array designator from the variable to the type.(©¤â«ùÿÿÿÿ8Çê™ä¦-
-Isquid:S1135"2Complete the task associated to this TODO comment.(Üð£Å
-Usquid:S1197H"8Move the array designator from the variable to the type.(£ÅÑ8Çê™ä¦-
-V
-squid:S106E"9Replace this use of System.out or System.err by a logger.(µíÅü8Çê™ä¦-
-V
-squid:S106I"9Replace this use of System.out or System.err by a logger.(Ïõ®€8Çê™ä¦-
+Ysquid:S1197"8Move the array designator from the variable to the type.(©¤â«ùÿÿÿÿ8øø£µ©-
+Ssquid:S1197"8Move the array designator from the variable to the type.(£ÅÑ8øø£µ©-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(µíÅü8øø£µ©-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïõ®€8øø£µ©-
+Nsquid:S1135"2Complete the task associated to this TODO comment.(Üð£Å8øø£µ©-
