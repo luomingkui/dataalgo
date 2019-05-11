@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab911fe-07f7-4fd1-8a4d-ae7b1ca5a100" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bc13e9d902081a1e211009fd232f3e21fec99f0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28729bb37c54ce5477861f849e46945887b50397" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/592dbb59975f45a59af65145e27ae95c4fb8fe27" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d6dd4a958d53d895d0d7cab8033759e3aa90176" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f9797c313acbf1fb03015e378bc20fe148994d8" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77c6485b138cee821af6b42a249afaf5dab7a4cd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b0ce15b14e34a87b91b03478b4b01cb0fabdcbe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/9022317b4b95c43abe63e23f389660c83ec270bc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6f1b1e824d36cac0eb5b4b2176f0fcdb580d3d1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf6002c6402340dc64184e78abc00487328c60d4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5c1b5705d1a4a1d1db0fb90264d2a2c12335693" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f88e4381097c0d608ab95e01ec8face1b194b921" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode002.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d1b46c475566725b1efabf6ed607dcd2b6e2cca" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d1b46c475566725b1efabf6ed607dcd2b6e2cca" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66874f1a3b57474bfa867fcaa83b9f867ea01a36" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66874f1a3b57474bfa867fcaa83b9f867ea01a36" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a929ed8d9896225dc712b0c47793716af6bbcde" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a929ed8d9896225dc712b0c47793716af6bbcde" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ListNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ArrayTwoSum.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java" afterPath="$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode002.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,25 +19,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeedCode002.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode002.java">
+      <file leaf-file-name="LeedCode2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="884">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding>
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeedCode1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,6 +57,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -123,6 +119,11 @@
         <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java" />
         <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ArrayTwoSum.java" />
         <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode002.java" />
+        <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode4.java" />
+        <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode1.java" />
+        <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode2.java" />
+        <option value="$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ListNode.java" />
       </list>
     </option>
   </component>
@@ -140,11 +141,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1909" />
-    <option name="y" value="23" />
-    <option name="width" value="1911" />
-    <option name="height" value="1014" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1461" />
+    <option name="y" value="-89" />
+    <option name="width" value="1850" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -265,6 +266,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mkluo.dataalgo.leetcode" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -277,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.LeedCode2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -304,14 +310,14 @@
       <module name="dataalgo" />
       <envs />
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.mkluo.dataalgo.binarysearch.*" />
+          <option name="PATTERN" value="com.mkluo.dataalgo.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.binarysearch.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.leetcode.Example" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -323,14 +329,14 @@
       <module name="dataalgo" />
       <envs />
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LeedCode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.mkluo.dataalgo.sorts.*" />
+          <option name="PATTERN" value="com.mkluo.dataalgo.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.sorts.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.leetcode.LeedCode1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,14 +348,14 @@
       <module name="dataalgo" />
       <envs />
     </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LeedCode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.mkluo.dataalgo.sorts.*" />
+          <option name="PATTERN" value="com.mkluo.dataalgo.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.sorts.RadixSort" />
+      <option name="MAIN_CLASS_NAME" value="com.mkluo.dataalgo.leetcode.LeedCode2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -455,19 +461,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RadixSort" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BinarySearch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ArrayTwoSum" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ArrayTwoSum" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Example" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LeedCode1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LeedCode2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ArrayTwoSum" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BinarySearch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RadixSort" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LeedCode2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LeedCode1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Example" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArrayTwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +517,7 @@
       <workItem from="1557022899374" duration="12849000" />
       <workItem from="1557385251318" duration="24000" />
       <workItem from="1557390214790" duration="2243000" />
-      <workItem from="1557461237987" duration="3022000" />
+      <workItem from="1557461237987" duration="17175000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法">
       <created>1554367958237</created>
@@ -555,28 +561,36 @@
       <option name="project" value="LOCAL" />
       <updated>1557305820520</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="数据结构和算法">
+      <created>1557475330237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557475330237</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72241000" />
+    <option name="totallyTimeSpent" value="86394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1909" y="23" width="1911" height="1014" extended-state="0" />
+    <frame x="1440" y="-137" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30551818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24047878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34260178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1589085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15814696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -589,7 +603,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3066528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -641,34 +654,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -959,17 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ArrayTwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -978,10 +952,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode002.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mkluo/dataalgo/leetcode/LeedCode2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
