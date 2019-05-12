@@ -7,36 +7,33 @@ package com.mkluo.dataalgo.leetcode;
  * @Version: V1.0
  */
 
-/**
- 已完成
- 执行用时: 0 ms
- 输入
- [2,4,3]
- [5,6,4]
- 输出
- [7,0,8]
- 预期结果
- [7,0,8]
- */
-
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */
-
 public class LeedCode2 {
 
-    public static void main(String[] args) {
-        LeedCode2 leedCode2 = new LeedCode2();
-        ListNode l1 = new ListNode(243);
-        ListNode l2 = new ListNode(564);
-        ListNode listNode = leedCode2.addTwoNumbers(l1, l2);
-        System.out.println(listNode.toString());
+    public static void main(String[] args) throws NullPointerException {
+        //测试用例：2->3->4  5->6->4
+        ListNode l1 = new ListNode(2);
+        l1.next = new ListNode(4);
+        l1.next.next = new ListNode(3);
 
+        ListNode l2 = new ListNode(5);
+        l2.next = new ListNode(6);
+        l2.next.next = new ListNode(4);
+
+        // ListNode l1 = new ListNode(9);
+        // ListNode l2 = new ListNode(1);
+        // l2.next = new ListNode(9);
+        // l2.next.next = new ListNode(9);
+        // l2.next.next.next = new ListNode(9);
+        // l2.next.next.next.next = new ListNode(9);
+        // l2.next.next.next.next.next = new ListNode(9);
+        // l2.next.next.next.next.next.next = new ListNode(9);
+        // l2.next.next.next.next.next.next.next = new ListNode(9);
+        // l2.next.next.next.next.next.next.next.next = new ListNode(9);
+        // l2.next.next.next.next.next.next.next.next.next = new ListNode(9);
+        LeedCode2 leedCode2 = new LeedCode2();
+        ListNode resListNode = leedCode2.addTwoNumbers(l1, l2);
+        //这里就打印了前三位
+        System.out.println(resListNode.val + "->" + resListNode.next.val + "->" + resListNode.next.next.val);
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -68,6 +65,8 @@ public class LeedCode2 {
     }
 
 }
+
+
 
 
 

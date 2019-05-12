@@ -9,19 +9,12 @@ package com.mkluo.dataalgo.leetcode;
 
 public class ListNode {
 
-    int val;
+      int val;
 
-    ListNode next;
+      ListNode next;
 
-    public ListNode(int val) {
-        this.val = val;
-    }
+      ListNode(int x) {
+          val = x;
+      }
 
-    @Override
-    public String toString() {
-        return "ListNode{" +
-                "val=" + val +
-                ", next=" + next +
-                '}';
-    }
 }
