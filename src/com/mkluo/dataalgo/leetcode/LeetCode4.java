@@ -7,7 +7,7 @@ package com.mkluo.dataalgo.leetcode;
  * @Version: V1.0
  */
 
-public class LeedCode4 {
+public class LeetCode4 {
 
 
 

@@ -7,10 +7,10 @@ package com.mkluo.dataalgo.leetcode;
  * @Version: V1.0
  */
 
-public class LeedCode1 {
+public class LeetCode1 {
 
     public static void main(String[] args){
-        LeedCode1 ats = new LeedCode1();
+        LeetCode1 ats = new LeetCode1();
         int[] array = new int[]{1,2,3,4,5,6,7,8,9};
         int[] indices = ats.twoSum(array, 7);
         if(indices!=null){

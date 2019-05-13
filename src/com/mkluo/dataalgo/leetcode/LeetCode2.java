@@ -7,7 +7,7 @@ package com.mkluo.dataalgo.leetcode;
  * @Version: V1.0
  */
 
-public class LeedCode2 {
+public class LeetCode2 {
 
     public static void main(String[] args) throws NullPointerException {
         //测试用例：2->3->4  5->6->4
@@ -30,7 +30,7 @@ public class LeedCode2 {
         // l2.next.next.next.next.next.next.next = new ListNode(9);
         // l2.next.next.next.next.next.next.next.next = new ListNode(9);
         // l2.next.next.next.next.next.next.next.next.next = new ListNode(9);
-        LeedCode2 leedCode2 = new LeedCode2();
+        LeetCode2 leedCode2 = new LeetCode2();
         ListNode resListNode = leedCode2.addTwoNumbers(l1, l2);
         //这里就打印了前三位
         System.out.println(resListNode.val + "->" + resListNode.next.val + "->" + resListNode.next.next.val);
