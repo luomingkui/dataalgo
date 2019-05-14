@@ -9,7 +9,7 @@ package com.mkluo.dataalgo.test;
 public class Test {
 
     public static void main(String[] args) {
-    int abc = 115;
-        System.out.println(abc%10);
+    int abc = 108;
+        System.out.println(abc/10);
     }
 }
