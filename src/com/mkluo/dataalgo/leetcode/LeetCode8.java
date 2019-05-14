@@ -10,7 +10,6 @@ package com.mkluo.dataalgo.leetcode;
 public class LeetCode8 {
 
     public static void main(String[] args) {
-
         LeetCode8 leetCode8 = new LeetCode8();
         int abc = leetCode8.myAtoi("1234455hhggg555");
         System.out.println(abc);
@@ -57,4 +56,5 @@ public class LeetCode8 {
         }
         return num;
     }
+
 }
