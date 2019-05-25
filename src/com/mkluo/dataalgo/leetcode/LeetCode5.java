@@ -7,11 +7,11 @@ package com.mkluo.dataalgo.leetcode;
  * @Version: V1.0
  */
 
-public class LeetCde5 {
+public class LeetCode5 {
 
     public static void main(String[] args) {
 
-        LeetCde5 leetCde5 = new LeetCde5();
+        LeetCode5 leetCde5 = new LeetCode5();
         String abc = leetCde5.longestPalindrome("acdcn");
         System.out.println(abc);
     }

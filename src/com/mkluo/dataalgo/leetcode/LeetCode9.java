@@ -10,7 +10,6 @@ package com.mkluo.dataalgo.leetcode;
 public class LeetCode9 {
 
     public static void main(String[] args) {
-
         LeetCode9 leetCode9 = new LeetCode9();
         Boolean abc = leetCode9.isPalindrome(105);
         System.out.println(abc);

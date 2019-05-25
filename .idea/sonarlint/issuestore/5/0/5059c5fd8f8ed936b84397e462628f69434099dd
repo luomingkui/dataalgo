@@ -1,10 +1,10 @@
 
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÌË„8úì¹úª-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µğı÷øÿÿÿÿ8İçµúª-
->squid:S1659""Declare "iMax" on a separate line.(•û˜8úì¹úª-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÌË„8úì¹úª-
-Asquid:S1659"%Declare "halfLen" on a separate line.(•û˜8úì¹úª-
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(—ÌË„8úì¹úª-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ·ğ÷şÿÿÿÿ8¨Ø¹úª-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÔßøÿÿÿÿ8İçµúª-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÔßøÿÿÿÿ8İçµúª-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ·ğ÷şÿÿÿÿ8¨Ø¹úª-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(—ÌË„8úì¹úª-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µğı÷øÿÿÿÿ8İçµúª-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÌË„8úì¹úª-
+Csquid:S1659"%Declare "halfLen" on a separate line.(•û˜8úì¹úª-
+@squid:S1659""Declare "iMax" on a separate line.(•û˜8úì¹úª-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÌË„8úì¹úª-
