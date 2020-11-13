@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;

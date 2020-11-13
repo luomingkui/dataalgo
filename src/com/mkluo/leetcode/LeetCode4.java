@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 /**
  * @Description: LeetCode-4-寻找两个有序数组的中位数

@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 /**
  * @Description: TODO

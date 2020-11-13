@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 /**
  * @Description: 两数相加：https://blog.csdn.net/Luomingkui1109/article/details/90115965
@@ -19,22 +19,13 @@ public class LeetCode2 {
         l2.next = new ListNode(6);
         l2.next.next = new ListNode(4);
 
-        // ListNode l1 = new ListNode(9);
-        // ListNode l2 = new ListNode(1);
-        // l2.next = new ListNode(9);
-        // l2.next.next = new ListNode(9);
-        // l2.next.next.next = new ListNode(9);
-        // l2.next.next.next.next = new ListNode(9);
-        // l2.next.next.next.next.next = new ListNode(9);
-        // l2.next.next.next.next.next.next = new ListNode(9);
-        // l2.next.next.next.next.next.next.next = new ListNode(9);
-        // l2.next.next.next.next.next.next.next.next = new ListNode(9);
-        // l2.next.next.next.next.next.next.next.next.next = new ListNode(9);
         LeetCode2 leedCode2 = new LeetCode2();
         ListNode resListNode = leedCode2.addTwoNumbers(l1, l2);
         //这里就打印了前三位
         System.out.println(resListNode.val + "->" + resListNode.next.val + "->" + resListNode.next.next.val);
     }
+
+
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(0);

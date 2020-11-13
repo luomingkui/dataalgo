@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 /**
  * @Description: LeetCode-8-字符串转换整数

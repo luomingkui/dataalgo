@@ -1,4 +1,4 @@
-package com.mkluo.dataalgo.leetcode;
+package com.mkluo.leetcode;
 
 /**
  * @Description: 两数之和：https://blog.csdn.net/Luomingkui1109/article/details/90075287
